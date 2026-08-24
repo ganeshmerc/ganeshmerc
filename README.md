@@ -6,7 +6,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganeshmerc&color=blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://ganeshmerc.netlify.app/)
 
 </div>
 
