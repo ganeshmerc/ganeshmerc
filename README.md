@@ -127,7 +127,6 @@ I'm always interested in:
 
 **Feel free to reach out:**
 - **LinkedIn:** [R Ganesh Siva Sai Charan](https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9)
-- **Portfolio:** [ganeshmerc.netlify.app](https://ganeshmerc.netlify.app/)
 
 ---
 
