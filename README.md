@@ -1,25 +1,42 @@
-# Hey there! 👋 I'm Ganesh Siva Sai Charan
+Yes. I would make it **cleaner, more professional, recruiter-focused, and less crowded**. I’d also put your strongest **Mutual Fund Analytics** project first and avoid making the profile look like a generic beginner README.
+
+Paste this entire content into your GitHub profile `README.md`:
+
+# 👋 Hi, I'm Ganesh Siva Sai Charan
 
 <div align="center">
 
-### 📊 Data Enthusiast | Analytics Developer | Power BI & Python
+### 📊 Data Analyst | Python | SQL | Power BI
 
-![Profile Views](https://komarev.com/ghpvc/?username=ganeshmerc&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9)
+**Turning data into insights, dashboards, and business solutions.**
+
+<p>
+  <a href="https://github.com/ganeshmerc">
+    <img src="https://komarev.com/ghpvc/?username=ganeshmerc&style=flat-square&color=0e75b6" alt="Profile Views">
+  </a>
+  <a href="https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-I'm a data enthusiast passionate about transforming raw data into actionable insights. Currently learning and building projects with:
-- 📈 **Data Analysis & EDA** (Exploratory Data Analysis)
-- 📊 **Power BI Dashboards** (Interactive visualizations & business intelligence)
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 🗄️ **SQL** (Data querying & manipulation)
+I'm a **Data Analyst and Analytics Developer** with a strong interest in transforming raw data into meaningful insights and business decisions.
 
-**Location:** 📍 Hyderabad, India
+I enjoy working across the complete analytics workflow — from **data cleaning and ETL to SQL analysis, statistical analysis, financial analytics, and interactive Power BI dashboards**.
+
+* 🎓 B.Tech in Electronics & Communication Engineering
+* 📊 Focused on Data Analytics & Business Intelligence
+* 🐍 Python for data analysis and automation
+* 🗄️ SQL & SQLite for data management and analysis
+* 📈 Power BI & DAX for interactive dashboards
+* 💰 Interested in financial and investment analytics
+* 🚀 Building practical, end-to-end data projects
+* 📍 Hyderabad, India
 
 ---
 
@@ -27,110 +44,247 @@ I'm a data enthusiast passionate about transforming raw data into actionable ins
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+### Programming & Data Analysis
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
+
+### Databases & Analytics
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+### Visualization & BI
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 </div>
 
 ---
 
-## 📚 Featured Projects
+# 🚀 Featured Projects
 
-### 🌍 [Global Airbnb Analysis Dashboard](https://github.com/ganeshmerc/global-airbnb-analysis-powerbi)
-**Power BI | Data Analysis | Business Intelligence**
+## 💰 Mutual Fund Data Analytics Platform
 
-Interactive Power BI dashboard analyzing Airbnb listings across major cities worldwide. Showcases pricing trends, market analysis, ratings distribution, and location-based insights.
+<a href="https://github.com/ganeshmerc/mutual-fund-data-project">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Key Insights:**
-- Analyzed 50,000+ listings across 10+ major cities
-- Created 8+ interactive visualizations
-- Identified pricing trends and customer rating patterns
-- **Tools:** Power BI, Excel, DAX
+An end-to-end **financial data analytics project** focused on mutual fund performance, risk analysis, investor behavior, and fund recommendation.
+
+### 🔹 What I Built
+
+* Designed an automated **ETL pipeline**
+* Cleaned and transformed financial datasets using Python
+* Built a structured **SQLite star schema**
+* Performed exploratory data analysis
+* Analyzed NAV and fund performance trends
+* Calculated financial risk and performance metrics
+* Implemented **VaR and CVaR analysis**
+* Developed **rolling 90-day Sharpe Ratio**
+* Performed investor cohort analysis
+* Analyzed SIP continuity and investor behavior
+* Built a simple **risk-based fund recommender**
+* Developed an interactive **Power BI dashboard**
+
+### 📊 Financial Analytics
+
+| Category    | Metrics                               |
+| ----------- | ------------------------------------- |
+| Performance | CAGR, Returns, NAV Trends             |
+| Risk        | Sharpe, Sortino, VaR, CVaR            |
+| Portfolio   | Alpha, Beta, Maximum Drawdown         |
+| Investors   | SIP Continuity, Cohorts, Transactions |
+| BI          | KPIs, Trends, Interactive Dashboards  |
+
+**Tech:** `Python` `Pandas` `NumPy` `SQL` `SQLite` `Power BI` `DAX` `Jupyter`
 
 ---
 
-### 💰 [Mutual Fund Data Analysis](https://github.com/ganeshmerc/mutual-fund-data-project)
-**Python | Data Analysis | Jupyter Notebook**
+## 📊 Global Airbnb Analysis Dashboard
 
-Comprehensive exploratory data analysis on mutual fund performance data. Analysis includes performance metrics, risk assessment, and fund comparison.
+<a href="https://github.com/ganeshmerc/global-airbnb-analysis-powerbi">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Key Features:**
-- Data cleaning and preprocessing
-- Statistical analysis & correlations
-- Visualization of fund performance
-- **Tools:** Python (Pandas, Matplotlib, Seaborn), Jupyter
+Interactive Power BI dashboard analyzing Airbnb listings across multiple cities.
+
+### 🔹 Analysis
+
+* 💰 Pricing trends
+* 🌍 City-level market comparison
+* ⭐ Rating distribution
+* 🏠 Listing analysis
+* 📍 Location-based insights
+* 📊 Interactive business intelligence dashboard
+
+**Tech:** `Power BI` `DAX` `Excel` `Data Analysis`
 
 ---
 
-### 🌐 [Amazon Website Clone](https://github.com/ganeshmerc/my-amazon-html-css)
-**HTML | CSS | Web Development**
+## 🌐 Amazon Website Clone
 
-A responsive Amazon-inspired web page built from scratch. Foundation project in frontend web development.
+<a href="https://github.com/ganeshmerc/my-amazon-html-css">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-**Tech Stack:** HTML5, CSS3
+A responsive Amazon-inspired website built from scratch to strengthen frontend development fundamentals.
+
+**Tech:** `HTML5` `CSS3`
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Power BI & Analytics
+
+I build dashboards that focus on more than just visualization — the goal is to turn data into **clear business insights**.
+
+### Dashboard Skills
+
+```text
+Data Preparation
+      ↓
+Data Modeling
+      ↓
+Relationships & Measures
+      ↓
+DAX Calculations
+      ↓
+Interactive Visualizations
+      ↓
+KPIs & Business Insights
+```
+
+### Power BI Areas
+
+* 📊 Data Modeling
+* 🧮 DAX
+* 📈 KPI Development
+* 🔄 Data Transformation
+* 📋 Interactive Reports
+* 🎯 Business Intelligence
+* 📉 Trend Analysis
+* 🔍 Drill-down & Filtering
+
+---
+
+# 🐍 Python Analytics
+
+I use Python for the complete data-analysis workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation
+   ↓
+Exploratory Data Analysis
+   ↓
+Statistical Analysis
+   ↓
+Visualization
+   ↓
+Insights
+```
+
+### Libraries
+
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Jupyter`
+
+---
+
+# 🗄️ SQL & Database
+
+I'm continuously improving my SQL skills for real-world analytical workloads.
+
+### Areas I Work With
+
+* SELECT & filtering
+* Aggregations
+* GROUP BY / HAVING
+* JOINs
+* Subqueries
+* CTEs
+* Window functions
+* Data cleaning
+* Analytical queries
+* Relational database design
+* SQLite
+
+---
+
+# 🎯 Current Focus
+
+I'm currently focused on becoming a stronger **end-to-end Data Analyst** by building practical projects and improving my technical skills.
+
+* 📊 Advanced SQL
+* 🐍 Python for analytics
+* 📈 Advanced Power BI & DAX
+* 🗄️ Data modeling
+* 💰 Financial analytics
+* 🤖 Machine learning fundamentals
+* ⚙️ ETL and data pipelines
+* 🚀 Real-world analytics projects
+
+---
+
+# 💼 Career Interests
+
+I'm interested in opportunities such as:
+
+**Data Analyst · Business Intelligence Analyst · Power BI Developer · Analytics Developer · Junior Data Analyst · Python Developer**
+
+I'm especially interested in roles involving:
+
+`Python` · `SQL` · `Power BI` · `Data Visualization` · `ETL` · `Business Analytics` · `Financial Analytics`
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshmerc&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshmerc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmerc&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmerc&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
 ---
 
-## 🚀 Currently Learning
+# 🤝 Let's Connect
 
-- 🔄 Advanced SQL optimization techniques
-- 📈 Statistical modeling for financial data
-- 🤖 Intro to machine learning concepts
-- 📊 Advanced Power BI features (M Language, DAX optimization)
+I'm open to:
 
----
+* 💼 Data Analytics opportunities
+* 📊 Power BI projects
+* 🐍 Python analytics projects
+* 🤝 Open-source collaboration
+* 💡 Data & technology discussions
 
-## 💡 What I'm Working On
+### 🔗 Find Me
 
-- Building more **data analysis projects** with real-world datasets
-- Creating **interactive Power BI dashboards** for various domains
-- Documenting my **learning journey** through blog posts and notebooks
-- Contributing to **open-source data projects**
+<div align="center">
 
----
+<a href="https://github.com/ganeshmerc">
+<img src="https://img.shields.io/badge/GitHub-ganeshmerc-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## 🎓 Learning Goals
+<a href="https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9">
+<img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Siva%20Sai%20Charan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- [ ] Master SQL for complex data queries
-- [ ] Build 5+ Power BI dashboards
-- [ ] Complete Python data science certification
-- [ ] Contribute to 3+ open-source projects
-- [ ] Create a technical blog documenting insights
-
----
-
-## 📬 Let's Connect!
-
-I'm always interested in:
-- 💬 Discussing data analysis projects
-- 🤝 Collaborating on open-source initiatives
-- 📧 Sharing insights and learning experiences
-
-**Feel free to reach out:**
-- **LinkedIn:** [R Ganesh Siva Sai Charan](https://www.linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a9)
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my projects useful, please consider giving them a star!
+### ⭐ Thanks for visiting my profile!
+
+**Let's turn data into meaningful insights. 🚀**
 
 </div>
