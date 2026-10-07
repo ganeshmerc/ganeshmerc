@@ -1,331 +1,264 @@
-# 📊 Nifty 100 Financial Analytics
+# 👋 Hi, I'm Ganesh Siva Sai Charan
 
-A financial analytics project covering **92 Nifty 100 companies**, focused on ETL pipelines, data quality validation, financial ratios, KPI analysis, CAGR, cash-flow analysis, capital allocation, stock screening, peer comparison, and an interactive Streamlit dashboard.
+### 📊 Data Analyst | Python | SQL | Power BI | Financial Analytics
 
 ---
 
-## 🚀 Project Overview
+## 👨‍💻 About Me
 
-This project builds an end-to-end financial analytics pipeline that transforms raw Excel data into a structured SQLite database and analytical outputs.
+I'm a **B.Tech ECE graduate** focused on **Data Analytics, Business Intelligence, and Financial Analytics**.
 
-### Key Features
+I enjoy turning raw data into meaningful insights using:
 
-* 📥 Excel data ingestion
-* 🔄 Data normalization
-* ✅ Data quality validation
-* 🗄️ SQLite database
-* 📊 50+ financial KPIs and ratios
-* 📈 CAGR analysis
-* 💰 Cash-flow analysis
-* 🏦 Capital allocation classification
-* 🏦 Financial-sector carve-out
-* 🔎 Stock screening
-* 🤝 Peer comparison
+* 🐍 Python
+* 🗄️ SQL & SQLite
+* 📊 Power BI & DAX
+* 📗 Excel
+* 🔄 ETL & Data Quality
+* 📈 Financial & Investment Analytics
+* 🧪 Data & KPI Testing
+
+I like building **end-to-end analytics projects** — from data ingestion and cleaning to database design, analysis, dashboards, and business insights.
+
+📍 Hyderabad, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+**Python:** Pandas • NumPy • Matplotlib • Seaborn • Plotly
+
+**SQL:** MySQL • SQLite • Joins • CTEs • Subqueries • Window Functions
+
+### Business Intelligence
+
+📊 Power BI • DAX • Power Query • Data Modeling • Interactive Dashboards
+
+📗 Excel • Pivot Tables • XLOOKUP • INDEX/MATCH • Data Analysis
+
+### Data Engineering & Analytics
+
+🔄 ETL Pipelines • Data Cleaning • Data Validation • Data Quality Rules
+
+🧪 Pytest • KPI Testing • Edge Case Testing • Database Integrity Checks
+
+⚙️ YAML • SQLite Database Design • Financial KPI Engines
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,html,css" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 Nifty 100 Financial Analytics
+
+**End-to-end financial analytics platform covering 92 Nifty 100 companies.**
+
+🔹 Excel → ETL → Data Validation → SQLite → Analytics → Dashboard
+
+### What I built
+
+* 🔄 Automated Excel data ingestion and transformation
+* 🧹 Data normalization and cleaning
+* ✅ 16 Data Quality validation rules
+* 🗄️ SQLite financial database
+* 📊 50+ financial KPIs
+* 📈 Profitability, leverage & efficiency ratios
+* 💰 CAGR & cash-flow analysis
+* 🏦 Financial-sector specific calculations
+* 🔎 Configurable stock screener
+* 🤝 Peer comparison analysis
 * 📊 Interactive Streamlit dashboard
-* 🧪 Automated testing and validation
+* 🧪 ETL, KPI & database testing
+* ⚙️ YAML-based screener configuration
+
+**Tech:** Python • Pandas • NumPy • SQL • SQLite • Streamlit • Pytest • PyYAML
+
+🔗 **Repository:** github.com/ganeshmerc/nifty100-financial-analytics
 
 ---
 
-# 🏗️ Project Pipeline
+## 💰 Mutual Fund Data Analytics Platform
+
+An end-to-end analytics platform for analysing mutual fund performance, risk and investor behaviour.
+
+### Highlights
+
+* 🔄 Automated data ingestion & ETL
+* 🗄️ SQLite star-schema database
+* 📊 NAV, CAGR & return analysis
+* 📈 Sharpe & Sortino ratios
+* 📉 Alpha, Beta & Drawdown
+* ⚠️ VaR & CVaR
+* 📅 Rolling 90-day Sharpe analysis
+* 👥 Investor cohort analysis
+* 💳 SIP continuity analysis
+* 🤖 Risk-based fund recommendation
+* 📊 Power BI dashboard
+
+**Tech:** Python • Pandas • NumPy • SQL • SQLite • Power BI • DAX
+
+🔗 **Repository:** github.com/ganeshmerc/mutual-fund-data-project
+
+---
+
+## 👥 Customer Churn Analysis
+
+A data analytics project focused on understanding customer behaviour and identifying factors contributing to customer churn.
+
+**Skills:** Python • Pandas • Data Cleaning • Exploratory Data Analysis • Visualization
+
+---
+
+## 🏠 Global Airbnb Analysis Dashboard
+
+Interactive analysis of Airbnb data to understand:
+
+* 💰 Pricing trends
+* 📍 Location performance
+* 🏠 Property types
+* ⭐ Reviews & ratings
+* 📊 Business insights
+
+**Tech:** Power BI • Data Analysis • Data Visualization
+
+---
+
+## 🛒 Amazon Website Clone
+
+A frontend project recreating the Amazon shopping interface to practice web development and UI design.
+
+**Tech:** HTML • CSS
+
+---
+
+# 📊 Power BI
+
+I use Power BI to build interactive dashboards and convert complex datasets into business-friendly insights.
+
+### Skills
+
+* Data Cleaning
+* Power Query
+* Data Modeling
+* DAX
+* Measures & Calculated Columns
+* KPI Cards
+* Interactive Visualizations
+* Dashboard Design
+* Drill-through & Filters
+
+---
+
+# 🐍 Python Analytics
+
+I use Python for:
 
 ```text
-Raw Excel Data
-      │
-      ▼
-┌───────────────┐
-│ Excel Ingestion│
-└───────┬───────┘
-        │
-        ▼
-┌────────────────┐
-│ Data Normalizer │
-└───────┬────────┘
-        │
-        ▼
-┌──────────────────┐
-│ Data Validation  │
-│ 16 DQ Rules      │
-└────────┬─────────┘
-         │
-         ▼
-┌────────────────┐
-│ SQLite Database │
-└───────┬────────┘
-        │
-        ▼
-┌─────────────────────────┐
-│ Financial Analytics     │
-│ 50+ KPIs & Ratios       │
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│ Screener / Peer Analysis│
-└───────────┬─────────────┘
-            │
-            ▼
-┌─────────────────────────┐
-│ Streamlit Dashboard     │
-└─────────────────────────┘
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Validation
+      ↓
+Exploratory Data Analysis
+      ↓
+Feature / KPI Engineering
+      ↓
+Financial Analysis
+      ↓
+Visualization
+      ↓
+Business Insights
 ```
+
+Main libraries:
+
+**Pandas • NumPy • Matplotlib • Seaborn • Plotly**
 
 ---
 
-# 📌 Sprint 1 — Data Foundation
+# 🗄️ SQL & Databases
 
-## ETL Pipeline
+I'm interested in using SQL to transform and analyse structured datasets.
 
-The first sprint establishes the project's data foundation.
+### SQL Skills
 
-* Excel data ingestion
-* Data normalization
-* Data validation
-* SQLite database loading
-* Foreign-key validation
-* Database integrity checks
-
-### Data Quality
-
-Implemented **16 Data Quality rules** to identify:
-
-* Missing values
-* Invalid financial data
-* Data mismatches
-* Missing companies
-* Table-level inconsistencies
-* Foreign-key issues
-
-### Database
-
-* SQLite database
-* Structured financial tables
-* SQL schema
-* Database validation scripts
+* SELECT & Filtering
+* JOINs
+* GROUP BY
+* Subqueries
+* CTEs
+* Window Functions
+* Aggregations
+* Data Validation
+* SQLite Database Design
 
 ---
 
-# 📈 Sprint 2 — Financial Ratio Engine
+# 🎯 Current Focus
 
-The project includes **50+ financial KPIs and ratios**.
+I'm currently strengthening my skills in:
 
-## Profitability
-
-* ROE
-* ROA
-* Profit margins
-* Other profitability indicators
-
-## Leverage
-
-* Debt-related ratios
-* Capital structure analysis
-* Leverage indicators
-
-## Efficiency
-
-* Asset efficiency
-* Working-capital-related metrics
-* Operational efficiency indicators
-
-## Growth
-
-* CAGR engine
-* Historical growth analysis
-
-## Cash Flow
-
-* Cash-flow KPIs
-* Operating cash-flow analysis
-* Cash-flow validation
-
-## Capital Allocation
-
-* Capital allocation classification
-* Financial-sector carve-out
-* Company-level classification
+* 📊 Data Analytics
+* 💼 Business Intelligence
+* 🐍 Python
+* 🗄️ SQL
+* 📈 Power BI
+* 🔄 ETL Pipelines
+* 🧪 Data Testing
+* 💰 Financial Analytics
+* 📊 Dashboard Development
 
 ---
 
-# 🔎 Stock Screener
+# 💼 Career Interests
 
-The project includes a configurable stock screening engine for analyzing companies using financial metrics and ratios.
+I'm looking for opportunities in:
 
-Configuration:
+**Data Analyst • Business Intelligence Analyst • Financial Data Analyst • Junior Data Analyst • Reporting Analyst**
 
-```text
-config/screener_config.yaml
-```
+I’m particularly interested in roles where I can work with **Python, SQL, Power BI, financial data and real-world analytics problems.**
 
 ---
 
-# 📊 Interactive Streamlit Dashboard
+# 🎓 Education
 
-The project includes an interactive **Streamlit dashboard** for exploring company-level financial information.
-
-### Dashboard Sections
-
-* 🏠 Home
-* 👤 Company Profile
-* 🔎 Stock Screener
-* 🤝 Peer Comparison
-* 📈 Financial Trends
-* 🏭 Sector Analysis
-* 💰 Capital Allocation
-* 📄 Reports
-
-Run the dashboard with:
-
-```bash
-streamlit run src/dashboard/app.py
-```
+🎓 **B.Tech – Electronics & Communication Engineering (ECE)**
 
 ---
 
-# 🧪 Testing & Validation
+# 📈 GitHub Stats
 
-Automated tests are included for ETL and KPI functionality.
-
-Testing covers:
-
-* Data normalization
-* Data validation
-* Financial ratio calculations
-* KPI calculations
-* Edge cases
-* Database integrity
-* Financial-sector carve-out validation
-
-Run the test suite:
-
-```bash
-pytest
-```
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshmerc&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshmerc&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+# 🤝 Connect With Me
 
-| Technology    | Usage                       |
-| ------------- | --------------------------- |
-| 🐍 Python     | Data processing & analytics |
-| 🐼 Pandas     | Data manipulation           |
-| 🔢 NumPy      | Numerical analysis          |
-| 🗄️ SQLite    | Financial database          |
-| 📊 Streamlit  | Interactive dashboard       |
-| 🧪 Pytest     | Automated testing           |
-| 📋 PyYAML     | Screener configuration      |
-| 📑 Excel/XLSX | Source data                 |
-| 🗃️ SQL       | Database design & queries   |
+💼 **LinkedIn:**
+linkedin.com/in/r-ganesh-siva-sai-charan-21b0972a
+
+🐙 **GitHub:**
+github.com/ganeshmerc
+
+📍 Hyderabad, India
 
 ---
 
-# 📁 Project Structure
-
-```text
-nifty100-financial-analytics/
-│
-├── config/
-│   └── screener_config.yaml
-│
-├── db/
-│   └── schema.sql
-│
-├── src/
-│   ├── analytics/
-│   ├── dashboard/
-│   ├── etl/
-│   ├── nlp/
-│   ├── reports/
-│   └── screener/
-│
-├── tests/
-│   ├── etl/
-│   └── kpi/
-│
-├── requirements.txt
-├── Makefile
-├── schema.sql
-└── README.md
-```
-
----
-
-# ▶️ Installation & Usage
-
-## 1. Clone the repository
-
-```bash
-git clone https://github.com/ganeshmerc/nifty100-financial-analytics.git
-cd nifty100-financial-analytics
-```
-
-## 2. Create a virtual environment
-
-```bash
-python -m venv .venv
-```
-
-## 3. Activate the environment
-
-### Windows
-
-```bash
-.venv\Scripts\activate
-```
-
-## 4. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## 5. Run tests
-
-```bash
-pytest
-```
-
-## 6. Launch the dashboard
-
-```bash
-streamlit run src/dashboard/app.py
-```
-
----
-
-# 🎯 Project Goals
-
-The main goal is to build a structured financial analytics system capable of:
-
-1. Ingesting financial data
-2. Normalizing and validating the data
-3. Storing data in SQLite
-4. Calculating financial KPIs and ratios
-5. Analyzing company performance
-6. Comparing companies and peers
-7. Screening companies using financial metrics
-8. Presenting insights through an interactive dashboard
-
----
-
-# 📌 Project Highlights
-
-| Area               | Implementation                                          |
-| ------------------ | ------------------------------------------------------- |
-| Companies          | **92 Nifty 100 companies**                              |
-| Data Quality       | **16 validation rules**                                 |
-| Financial Analysis | **50+ KPIs & ratios**                                   |
-| Database           | **SQLite**                                              |
-| ETL                | **Python-based pipeline**                               |
-| Dashboard          | **Streamlit**                                           |
-| Testing            | **Pytest**                                              |
-| Screening          | **Configurable stock screener**                         |
-| Analysis           | **CAGR, cash flow, capital allocation & peer analysis** |
-
----
-
-## 👨‍💻 Author
-
-**Ganesh**
-
-GitHub: [@ganeshmerc](https://github.com/ganeshmerc)
+### ⭐ I enjoy building practical data projects and continuously improving my analytics skills.
